@@ -1,0 +1,14 @@
+{
+  "name": "doorbellClient",
+  "version": "1.0.0",
+  "description": "takes a photo and sends to cloud when ever pin 17 is pressed",
+  "main": "app.js",
+  "dependencies": {
+    "r-pi-gpio": "~2.1.3",
+    "azure": "~0.10.2",
+    "camerapi": "~0.1.0",
+    "request": "~2.50.0",
+    "async": "~0.9.0",
+    "onoff": "~0.3.2"
+  }
+}
